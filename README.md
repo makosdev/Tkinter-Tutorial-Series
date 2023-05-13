@@ -8,7 +8,7 @@ This series focuses on building a basic Tkinter step by step. Each video in the 
 
 ## Video Playlist
 
-You can find the complete playlist of videos for this series on YouTube: [Tkinter Series](https://www.youtube.com/playlist?list=your-playlist-id)
+You can find the complete playlist of videos for this series on YouTube: [Tkinter Series](https://www.youtube.com/watch?v=zyfl0PzgVBs&list=PLBV_QEHvkR53GbWfUlTC7G976ZYvzPCnw)
 
 ## Repository Structure
 
